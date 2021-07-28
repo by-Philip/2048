@@ -18,8 +18,8 @@ Changes and improvements are more than welcome! Feel free to fork and open a pul
 
 <h2 align="center">License</h2>
 
-This repository licensed under the [MIT license](https://github.com/by-Philip/2048/blob/main/LICENSE) .
+This repository licensed under the [MIT license](https://github.com/by-Philip/2048/blob/main/LICENSE.)
 
 <h2 align="center">Contact</h2>
 
-If you have any questions or other matters that you would like to discuss with us. You can always reach us by [mail](mailto:contact@byphilip.ga) . We will do our best to respond as soon as possible.
+If you have any questions or other matters that you would like to discuss with us. You can always reach us by [mail](mailto:contact@byphilip.ga.) We will do our best to respond as soon as possible.
