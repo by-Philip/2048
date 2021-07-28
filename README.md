@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+  <img width="200" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/2048_logo.png" alt="2048 Logo">
 </p>
+<h1 align="center">2048</h1>
 
 A small clone of [2024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
