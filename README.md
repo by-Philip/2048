@@ -22,5 +22,5 @@ This repository licensed under the [MIT license](https://github.com/by-Philip/20
 
 <h2 align="center">Contact</h2>
 
-[Duck Duck Go](https://duckduckgo.com
+[Duck Duck Go](https://duckduckgo.com)
 If you have any questions or other matters that you would like to discuss with us. You can always reach us by [mail](mailto:contact@byphilip.ga). We will do our best to respond as soon as possible.
