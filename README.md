@@ -5,11 +5,7 @@ Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
 
 The official app can also be found on the [Play Store](https://play.google.com/store/apps/details?id=com.gabrielecirulli.app2048) and [App Store!](https://itunes.apple.com/us/app/2048-by-gabriele-cirulli/id868076805)
 
-<p align="center">
-  <a href="https://download.notable.app">
-    <img src="https://notable.app/static/images/badges/download.png" height="42" alt="Play Button" />
-  </a>
-</p>
+<button name="button" onclick="http://www.google.com">Click me</button>
 
 ### Contributions
 
