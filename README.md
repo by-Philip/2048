@@ -5,13 +5,12 @@
 <p align="center">Can you reach tile 2048?</p>
 
 <h3 align="center">Tasks</h3>
+
 - [x] Dark Theme
 - [x] Privacy Policy and Terms of Service
 - [ ] Other favicons on every page matching color theme
 - [ ] Simplified JavaScript
 - [ ] Renewed UI for choosable themes
-
-
 
 <h3 align="center">Contributing</h3>
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`! If you can, please make sure the game fully works before sending the pull request, as that will help speed up reviewing your request.
