@@ -8,9 +8,9 @@
 
 - [x] Dark Theme
 - [x] Privacy Policy and Terms of Service
-- [ ] Other favicons on every page matching color theme
+- [ ] Themed Favicon
 - [ ] Simplified JavaScript
-- [ ] Renewed UI for choosable themes
+- [ ] Choosable UI
 
 ## Contributing
 
